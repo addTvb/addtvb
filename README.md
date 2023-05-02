@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addtvb&label=Profile%20views&color=ffac00&style=flat" alt="addtvb" /> </p>
 
-- 🔭 I’m currently working on my **pet projects**
+- 🔭 I’m currently working on my [WhatToFarm](https://whattofarm.io/)
 
 - 🌱 I’m currently upgrade my skills at **Web 3.0**
 
