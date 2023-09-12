@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addtvb&label=Profile%20views&color=ffac00&style=flat" alt="addtvb" /> </p>
 
-- 🔭 I’m currently working on my [WhatToFarm](https://whattofarm.io/)
-
-- 🌱 I’m currently upgrade my skills at **Web 3.0**
-
-- 🤝 I’m looking for help with [Weather-Notify](https://github.com/addTvb/weather-notify)
-
 - 📝 Sometimes i write an small articles [https://addtvb-code-notes.netlify.app/](https://addtvb-code-notes.netlify.app/)
 
 - 💬 Ask me about **React.js, CSS, TypeScript**
